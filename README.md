@@ -21,12 +21,12 @@
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
 <a href="https://ubuntu.org/" title="Linux"><img src="icons/Linux-Dark.svg"   height=32 width=32/></a>
 
-
 <h3><samp>Learning 👇</samp></h3>
 <a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
 <a href="https://tensorflow.org/" title="Flutter"  ><img src="icons/TensorFlow-Dark.svg" height=32 width=32 /></a>
 <a href="https://flask.palletsprojects.com/en/2.2.x/" title="Flask"  ><img src="icons/Flask-Dark.svg" height=32 width=32 /></a>
 <a href="https://www.javascript.com/" title="Javascript"  ><img src="icons/JavaScript.svg" height=32 width=32 /></a>
+<a href="https://ubuntu.org/" title="Linux"><img src="icons/1200px-Keras_logo.svg.png"   height=32 width=32/></a>
 
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
