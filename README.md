@@ -30,7 +30,6 @@
 
 <h3><samp>currently working on 👇</samp></h3>
 [vRevamp](https://github.com/sanjay7178/vRevamp)
-[]
 
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
