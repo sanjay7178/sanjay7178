@@ -8,5 +8,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjay7178&repo=vRevamp)](https://github.com/sanjay7178/vRevamp)
 
-  
+[![Chat on Matrix](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/sanjay7178:matrix.org)  
 ![](https://komarev.com/ghpvc/?username=sanjay7178)
