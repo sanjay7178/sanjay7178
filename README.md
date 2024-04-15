@@ -7,6 +7,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjay7178&repo=vRevamp)](https://github.com/sanjay7178/vRevamp)
 
+<h3><samp>Blogs</samp></h3>
+
+1. [Steps to setup your pycom fipy microcontroller board for programming ready and Range test of LORA](https://medium.com/@saisanjay7660/steps-to-setup-your-pycom-fipy-microcontroller-board-for-programming-ready-and-range-test-of-lora-480b3ee9f26b) , [Source Code](https://github.com/sanjay7178/fipy-range-lora)   
 <h3><samp>Talks</samp></h3>
 
 | Title               | Event            | Date       |
@@ -15,14 +18,7 @@
 | Introduction to CTF's 101              | [Prenull Null Meetup ,Vijaywada](https://null.community/events/945-vijayawada-null-ctf)        | 2023-11-18 |
 | Docker Orchestration with Kubernetes             | [Null Meetup , Vijaywada ](https://null.community/events/970-vijayawada-null-vja-monthly-meetup)       | 2024-01-24 |
 
-<h3><samp>Blogs</samp></h3>
 
-| Title               |
-|---------------------|
-|[Steps to setup your pycom fipy microcontroller board for programming ready and Range test of LORA](https://medium.com/@saisanjay7660/steps-to-setup-your-pycom-fipy-microcontroller-board-for-programming-ready-and-range-test-of-lora-480b3ee9f26b) , [Source Code](https://github.com/sanjay7178/fipy-range-lora)      | 
-
-[//]: # ( | Blog Post 2         | YYYY-MM-DD | )
-[//]: # ( | Blog Post 3         | YYYY-MM-DD | )
 
 <h3><samp>Research</samp></h3>
 
