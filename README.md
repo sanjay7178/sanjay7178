@@ -30,3 +30,5 @@
 
 [![Chat on Matrix](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/sanjay7178:matrix.org)  
 ![](https://komarev.com/ghpvc/?username=sanjay7178)
+<br>
+[contact@sanjaydev.site](mailto:contact@sanjaydev.site)
