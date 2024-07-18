@@ -3,9 +3,11 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay7178&layout=compact)
-<h3><samp>Building</samp></h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjay7178&repo=vRevamp)](https://github.com/sanjay7178/vRevamp)
+
+Checkout 
+- https://github.com/sanjay7178/vRevamp 
+- https://github.com/sanjay7178/android-vtop-vitap (maintainer)
 
 <h3><samp>Blogs</samp></h3>
 
@@ -31,4 +33,5 @@
 [![Chat on Matrix](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/sanjay7178:matrix.org)  
 ![](https://komarev.com/ghpvc/?username=sanjay7178)
 <br>
-[contact@sanjaydev.site](mailto:contact@sanjaydev.site)
+
+[Sponsor 🤎](https://github.com/sponsors/sanjay7178)
