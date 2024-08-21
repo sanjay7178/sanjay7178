@@ -8,6 +8,7 @@
 Checkout 
 - https://github.com/sanjay7178/vRevamp 
 - https://github.com/sanjay7178/android-vtop-vitap (maintainer)
+- https://github.com/sanjay7178/captive-control (cross platform FortiAP firewall Authenticator)
 
 <h3><samp>Blogs</samp></h3>
 
