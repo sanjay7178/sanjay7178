@@ -28,7 +28,7 @@ Checkout
 | Title               | Conference/Journal | Areas       |
 |---------------------|-------------------|------------|
 | [Transfer Learning for Bird Species Identification](https://ieeexplore.ieee.org/document/10142979) , [Code/Implementation](https://github.com/sanjay7178/iot-esp32-cam)           | 2023 2nd International Conference on Computational Systems and Communication (ICCSC) · Jun 8, 2023         | Computer Vision |
-| Secure and Efficient Deployment of Custom Face Antispoofing Detection Models via Serverless Architecture and SaaS Platform           | Still on research part , soon published on ArXiv.org · 2024      | Computer Vision |
+| [Secure and Efficient Deployment of Custom Face Antispoofing Detection Models via Serverless Architecture and SaaS Platform ](https://www.preprints.org/manuscript/202409.0740/v1)        | Preprints.org · 2024      | Computer Vision |
 | DeepPairNet : A Custom facial anti spoofing model based on resnet50 and unsupervised patch patterns           | Still on research part , soon publishedon ArXiv.org · 2024        | Computer Vision, Cloud computing , [Code/Implementation](https://github.com/DeepBinder-main/patch_light) |
 
 [![Chat on Matrix](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/sanjay7178:matrix.org)  
