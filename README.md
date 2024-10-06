@@ -6,13 +6,13 @@
 
 
 Here are my awesome projects make sure to checkout 
-- https://github.com/sanjay7178/vRevamp 
-- https://github.com/sanjay7178/android-vtop-vitap (maintainer)
-- https://github.com/sanjay7178/vitstudent
-- https://github.com/sanjay7178/openfortiapauth (cross platform FortiAP firewall Authenticator)
-- https://github.com/sanjay7178/go-ukip (still under development)
-- https://github.com/sanjay7178/go-sftp-browser (still under development)
-- https://github.com/sanjay7178/complaint-erp (self hosted university/organisation complaint management portal - under development )
+- [vRevamp](https://github.com/sanjay7178/vRevamp )
+- [android-vtop-vitap](https://github.com/sanjay7178/android-vtop-vitap) (maintainer)
+- [vitstudent](https://github.com/sanjay7178/vitstudent)
+- [openfortiapauth](https://github.com/sanjay7178/openfortiapauth) (cross platform FortiAP firewall Authenticator)
+- [go-ukip](https://github.com/sanjay7178/go-ukip) (still under development)
+- [go-sftp-browser](https://github.com/sanjay7178/go-sftp-browser) (still under development)
+- [complaint-erp](https://github.com/sanjay7178/complaint-erp) (self hosted university/organisation complaint management portal - under development )
 
 <h3><samp>Blogs</samp></h3>
 
