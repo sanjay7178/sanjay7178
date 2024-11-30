@@ -16,7 +16,9 @@ Here are my awesome projects make sure to checkout
 
 <h3><samp>Blogs</samp></h3>
 
-1. [Steps to setup your pycom fipy microcontroller board for programming ready and Range test of LORA](https://medium.com/@saisanjay7660/steps-to-setup-your-pycom-fipy-microcontroller-board-for-programming-ready-and-range-test-of-lora-480b3ee9f26b) , [Source Code](https://github.com/sanjay7178/fipy-range-lora)   
+1. [Steps to setup your pycom fipy microcontroller board for programming ready and Range test of LORA](https://medium.com/@saisanjay7660/steps-to-setup-your-pycom-fipy-microcontroller-board-for-programming-ready-and-range-test-of-lora-480b3ee9f26b) , [Source Code](https://github.com/sanjay7178/fipy-range-lora)
+2. [Bug Report Misconfigured Role-Based Access for Project Registration Service in my University's ERP Portal](https://blog.sanjaydev.site/posts/misconfigured-role-based-access-erp-portal)
+
 <h3><samp>Talks</samp></h3>
 
 | Title               | Event            | Date       |
