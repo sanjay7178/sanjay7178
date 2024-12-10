@@ -13,6 +13,8 @@ Here are my awesome projects make sure to checkout
 - [go-ukip](https://github.com/sanjay7178/go-ukip) (still under development)
 - [go-sftp-browser](https://github.com/sanjay7178/go-sftp-browser) (still under development)
 - [complaint-erp](https://github.com/sanjay7178/complaint-erp) (self hosted university/organisation complaint management portal - under development )
+- [filecompressor](https://github.com/sanjay7178/filecompressor) 
+- 
 
 <h3><samp>Blogs</samp></h3>
 
