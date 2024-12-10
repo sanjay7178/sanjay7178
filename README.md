@@ -9,10 +9,10 @@ Here are my awesome projects make sure to checkout
 - [vRevamp](https://github.com/sanjay7178/vRevamp )
 - [android-vtop-vitap](https://github.com/sanjay7178/android-vtop-vitap) (maintainer)
 - [vitstudent](https://github.com/sanjay7178/vitstudent)
-- [openfortiapauth](https://github.com/sanjay7178/openfortiapauth) (cross platform FortiAP firewall Authenticator)
-- [go-ukip](https://github.com/sanjay7178/go-ukip) (still under development)
-- [go-sftp-browser](https://github.com/sanjay7178/go-sftp-browser) (still under development)
-- [complaint-erp](https://github.com/sanjay7178/complaint-erp) (self hosted university/organisation complaint management portal - under development )
+- [openfortiapauth](https://github.com/sanjay7178/openfortiapauth) [WIP] (cross platform FortiAP firewall Authenticator)
+- [go-ukip](https://github.com/sanjay7178/go-ukip) [WIP]
+- [go-sftp-browser](https://github.com/sanjay7178/go-sftp-browser) [WIP]
+- [complaint-erp](https://github.com/sanjay7178/complaint-erp) [WIP] (self hosted university/organisation complaint management portal)
 - [filecompressor](https://github.com/sanjay7178/filecompressor) 
 - 
 
