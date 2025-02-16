@@ -1,4 +1,4 @@
-<h3 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm a Chaos Engineering Enthusiast, Open Source Contributor, and Enthusiast in Deep Learning Applications. I also like Python and I'm exploring new web frameworks ☁️ </samp></h3>
+<samp><i> Technology enthusiast geek for building in Golang, JS frameworks, continuous learning in multimodal AI, and a few bits of security.</i></samp>
 
 
 
