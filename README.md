@@ -28,6 +28,7 @@ Here are my awesome projects make sure to checkout
 | Privacy Enhanced Technologies              | [Standard Chartered, Chennai](https://www.linkedin.com/posts/sai-sanjay-kottakota-9648bb233_privacyenhancedtechnologies-adversarialattacks-activity-7073359490414235648-UMhf?utm_source=share&utm_medium=member_desktop)   | 2023-04-25 |
 | Introduction to CTF's 101              | [Prenull Null Meetup ,Vijaywada](https://null.community/events/945-vijayawada-null-ctf)        | 2023-11-18 |
 | Docker Orchestration with Kubernetes             | [Null Meetup , Vijaywada ](https://null.community/events/970-vijayawada-null-vja-monthly-meetup)       | 2024-01-24 |
+| [Simplifying Container Workflows and Orchestration with Sugar](https://fossunited.org/c/hyderabad/2025-apr/cfp/3cvk203l1o) , [Slides](https://docs.google.com/presentation/d/1JJBFckFq8SiTeP-JOWrPQhoUGYROhEWPrAigiw71LS8/edit?usp=sharing)   | [FOSS Meetup Hyderabad](https://fossunited.org/c/hyderabad/2025-apr) | 2025-05-10 | 
 
 
 
