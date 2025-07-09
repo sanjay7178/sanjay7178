@@ -1,4 +1,4 @@
-<samp><i> Technology enthusiast geek for building in Golang, JS frameworks, continuous learning in multimodal AI, and a few bits of security.</i></samp>
+<samp><i> Technology enthusiast geek for building applications in Golang, JS frameworks, continuous learning in multimodal AI, and a few bits of security.</i></samp>
 
 
 
