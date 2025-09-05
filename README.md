@@ -16,12 +16,16 @@ Here are my awesome projects make sure to checkout
 - [filecompressor](https://github.com/sanjay7178/filecompressor) 
 - 
 
-<h3><samp>Blogs</samp></h3>
-
+Blogs
 1. [Steps to setup your pycom fipy microcontroller board for programming ready and Range test of LORA](https://medium.com/@saisanjay7660/steps-to-setup-your-pycom-fipy-microcontroller-board-for-programming-ready-and-range-test-of-lora-480b3ee9f26b) , [Source Code](https://github.com/sanjay7178/fipy-range-lora)
 2. [Bug Report Misconfigured Role-Based Access for Project Registration Service in my University's ERP Portal](https://sanjay7178.github.io/blog/posts/misconfigured-role-based-access-erp-portal)
 
-<h3><samp>Talks</samp></h3>
+Few of my Artifacts/Packages/Libraries I maintain
+
+Artifacthub : [kubebrowse](https://artifacthub.io/packages/helm/kubebrowse/kubebrowse)
+Crates : [lib_vtop](https://crates.io/crates/lib_vtop)
+
+Talks 
 
 | Title               | Event            | Date       |
 |---------------------|------------------|------------|
@@ -30,10 +34,7 @@ Here are my awesome projects make sure to checkout
 | Docker Orchestration with Kubernetes             | [Null Meetup , Vijaywada ](https://null.community/events/970-vijayawada-null-vja-monthly-meetup)       | 2024-01-24 |
 | [Simplifying Container Workflows and Orchestration with Sugar](https://fossunited.org/c/hyderabad/2025-apr/cfp/3cvk203l1o) , [Slides](https://docs.google.com/presentation/d/1JJBFckFq8SiTeP-JOWrPQhoUGYROhEWPrAigiw71LS8/edit?usp=sharing)   | [FOSS Meetup Hyderabad](https://fossunited.org/c/hyderabad/2025-apr) | 2025-05-10 | 
 
-
-
-<h3><samp>Research</samp></h3>
-
+Research
 | Title               | Conference/Journal | Areas       |
 |---------------------|-------------------|------------|
 | [Transfer Learning for Bird Species Identification](https://ieeexplore.ieee.org/document/10142979) , [Code/Implementation](https://github.com/sanjay7178/iot-esp32-cam)           | 2023 2nd International Conference on Computational Systems and Communication (ICCSC) · Jun 8, 2023         | Computer Vision |
